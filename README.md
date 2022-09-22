@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there <3 , I am Omer Edip Aras, A freshman CS major at Bilkent University
 
 <!--
 **omerediparas/omerediparas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
