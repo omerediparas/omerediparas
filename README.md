@@ -1,4 +1,5 @@
-### Hello there <3 , I am Omer Edip Aras, A freshman CS major at Bilkent University
+### Hello there <3 , I am Omer Edip Aras, A freshman CS major at Bilkent University😄
+I love to learn new things reelated to technology and apply them in our daily lives.⚡
 
 <!--
 **omerediparas/omerediparas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything, feel free :)
 - 📫 How to reach me: https://www.linkedin.com/in/%C3%B6mer-edip-aras-0198071b1
-- 😄 Pronouns: he/him
+-  Pronouns: he/him
 - ⚡ Fun fact: ...
 -->
